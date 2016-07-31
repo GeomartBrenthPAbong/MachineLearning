@@ -5,7 +5,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>108</x>
-      <y>432</y>
+      <y>456</y>
       <w>120</w>
       <h>48</h>
     </coordinates>
@@ -21,7 +21,7 @@ Minimizer
     <id>UMLClass</id>
     <coordinates>
       <x>564</x>
-      <y>432</y>
+      <y>456</y>
       <w>120</w>
       <h>48</h>
     </coordinates>
@@ -39,7 +39,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>528</x>
-      <y>552</y>
+      <y>576</y>
       <w>156</w>
       <h>36</h>
     </coordinates>
@@ -58,7 +58,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>672</x>
-      <y>456</y>
+      <y>480</y>
       <w>96</w>
       <h>132</h>
     </coordinates>
@@ -69,7 +69,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>36</x>
-      <y>552</y>
+      <y>576</y>
       <w>192</w>
       <h>36</h>
     </coordinates>
@@ -84,7 +84,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>12</x>
-      <y>636</y>
+      <y>660</y>
       <w>216</w>
       <h>36</h>
     </coordinates>
@@ -99,7 +99,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>0</x>
-      <y>720</y>
+      <y>744</y>
       <w>228</w>
       <h>36</h>
     </coordinates>
@@ -114,7 +114,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>216</x>
-      <y>444</y>
+      <y>468</y>
       <w>96</w>
       <h>144</h>
     </coordinates>
@@ -125,7 +125,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>216</x>
-      <y>552</y>
+      <y>576</y>
       <w>96</w>
       <h>120</h>
     </coordinates>
@@ -136,7 +136,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>216</x>
-      <y>636</y>
+      <y>660</y>
       <w>96</w>
       <h>120</h>
     </coordinates>
@@ -147,7 +147,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>372</x>
-      <y>156</y>
+      <y>180</y>
       <w>120</w>
       <h>36</h>
     </coordinates>
@@ -169,7 +169,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>924</x>
-      <y>432</y>
+      <y>456</y>
       <w>120</w>
       <h>36</h>
     </coordinates>
@@ -187,7 +187,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>924</x>
-      <y>552</y>
+      <y>576</y>
       <w>120</w>
       <h>36</h>
     </coordinates>
@@ -201,7 +201,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>672</x>
-      <y>432</y>
+      <y>456</y>
       <w>276</w>
       <h>36</h>
     </coordinates>
@@ -212,7 +212,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>924</x>
-      <y>636</y>
+      <y>660</y>
       <w>120</w>
       <h>36</h>
     </coordinates>
@@ -226,7 +226,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>612</x>
-      <y>444</y>
+      <y>468</y>
       <w>336</w>
       <h>108</h>
     </coordinates>
@@ -237,7 +237,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>1032</x>
-      <y>432</y>
+      <y>456</y>
       <w>108</w>
       <h>156</h>
     </coordinates>
@@ -248,7 +248,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>1032</x>
-      <y>552</y>
+      <y>576</y>
       <w>108</w>
       <h>120</h>
     </coordinates>
@@ -259,7 +259,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>156</x>
-      <y>180</y>
+      <y>204</y>
       <w>300</w>
       <h>276</h>
     </coordinates>
@@ -270,7 +270,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>420</x>
-      <y>312</y>
+      <y>336</y>
       <w>228</w>
       <h>144</h>
     </coordinates>
@@ -281,7 +281,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>840</x>
-      <y>132</y>
+      <y>156</y>
       <w>132</w>
       <h>36</h>
     </coordinates>
@@ -305,7 +305,7 @@ CostFunction
     <id>Relation</id>
     <coordinates>
       <x>420</x>
-      <y>156</y>
+      <y>180</y>
       <w>516</w>
       <h>132</h>
     </coordinates>
@@ -316,7 +316,7 @@ CostFunction
     <id>UMLClass</id>
     <coordinates>
       <x>1332</x>
-      <y>420</y>
+      <y>444</y>
       <w>144</w>
       <h>48</h>
     </coordinates>
@@ -335,7 +335,7 @@ MLVariable
     <id>UMLClass</id>
     <coordinates>
       <x>1332</x>
-      <y>516</y>
+      <y>540</y>
       <w>144</w>
       <h>48</h>
     </coordinates>
@@ -353,7 +353,7 @@ MLMatrix
     <id>UMLClass</id>
     <coordinates>
       <x>1332</x>
-      <y>612</y>
+      <y>636</y>
       <w>144</w>
       <h>48</h>
     </coordinates>
@@ -368,7 +368,7 @@ MLVector
     <id>UMLClass</id>
     <coordinates>
       <x>1332</x>
-      <y>708</y>
+      <y>732</y>
       <w>144</w>
       <h>48</h>
     </coordinates>
@@ -380,7 +380,7 @@ MLScalar</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>1332</x>
-      <y>804</y>
+      <y>828</y>
       <w>144</w>
       <h>48</h>
     </coordinates>
@@ -392,7 +392,7 @@ MLDoubleScalar</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1464</x>
-      <y>420</y>
+      <y>444</y>
       <w>108</w>
       <h>132</h>
     </coordinates>
@@ -403,7 +403,7 @@ MLDoubleScalar</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1464</x>
-      <y>516</y>
+      <y>540</y>
       <w>108</w>
       <h>132</h>
     </coordinates>
@@ -414,7 +414,7 @@ MLDoubleScalar</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1464</x>
-      <y>612</y>
+      <y>636</y>
       <w>108</w>
       <h>132</h>
     </coordinates>
@@ -425,7 +425,7 @@ MLDoubleScalar</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1464</x>
-      <y>708</y>
+      <y>732</y>
       <w>108</w>
       <h>132</h>
     </coordinates>
@@ -436,34 +436,22 @@ MLDoubleScalar</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>1908</x>
-      <y>60</y>
+      <y>276</y>
       <w>192</w>
       <h>36</h>
     </coordinates>
-    <panel_attributes>MLVariableFactory
--
--
-+_createMatrix(double[][] rawMatrix): MLMatrix_;
-+_createVector(double[] rawVector): MLVector_;
-+_createDoubleScalar(double rawScalar): MLScalar_;</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLClass</id>
-    <coordinates>
-      <x>1908</x>
-      <y>252</y>
-      <w>192</w>
-      <h>36</h>
-    </coordinates>
-    <panel_attributes>EJMLVariableFactory</panel_attributes>
+    <panel_attributes>MLMatrixFactory
+--
+-__defaultMatrix__:String
+--
+</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
       <x>1668</x>
-      <y>516</y>
+      <y>540</y>
       <w>168</w>
       <h>36</h>
     </coordinates>
@@ -474,7 +462,7 @@ MLDoubleScalar</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1464</x>
-      <y>528</y>
+      <y>552</y>
       <w>228</w>
       <h>36</h>
     </coordinates>
@@ -485,7 +473,7 @@ MLDoubleScalar</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>1668</x>
-      <y>612</y>
+      <y>636</y>
       <w>168</w>
       <h>36</h>
     </coordinates>
@@ -496,7 +484,7 @@ MLDoubleScalar</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1464</x>
-      <y>624</y>
+      <y>648</y>
       <w>228</w>
       <h>36</h>
     </coordinates>
@@ -507,7 +495,7 @@ MLDoubleScalar</panel_attributes>
     <id>UMLClass</id>
     <coordinates>
       <x>1668</x>
-      <y>804</y>
+      <y>828</y>
       <w>168</w>
       <h>36</h>
     </coordinates>
@@ -518,7 +506,7 @@ MLDoubleScalar</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1464</x>
-      <y>816</y>
+      <y>840</y>
       <w>228</w>
       <h>36</h>
     </coordinates>
@@ -529,74 +517,12 @@ MLDoubleScalar</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1824</x>
-      <y>276</y>
+      <y>300</y>
       <w>204</w>
       <h>288</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 creates</panel_attributes>
     <additional_attributes>10.0;220.0;150.0;220.0;150.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1824</x>
-      <y>528</y>
-      <w>204</w>
-      <h>132</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-creates</panel_attributes>
-    <additional_attributes>10.0;90.0;150.0;90.0;150.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1824</x>
-      <y>624</y>
-      <w>204</w>
-      <h>228</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-creates</panel_attributes>
-    <additional_attributes>10.0;170.0;150.0;170.0;150.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1992</x>
-      <y>84</y>
-      <w>36</w>
-      <h>192</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;140.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLClass</id>
-    <coordinates>
-      <x>1464</x>
-      <y>60</y>
-      <w>240</w>
-      <h>36</h>
-    </coordinates>
-    <panel_attributes>MLVariableFactoryProducer
--
--_defaultVariable_
--
-+create()</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1692</x>
-      <y>48</y>
-      <w>240</w>
-      <h>48</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-creates</panel_attributes>
-    <additional_attributes>180.0;20.0;10.0;20.0</additional_attributes>
   </element>
 </diagram>
